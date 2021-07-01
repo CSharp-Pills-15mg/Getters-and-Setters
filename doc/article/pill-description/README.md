@@ -10,7 +10,7 @@ Language (C#)
 
 - A: The properties in C# are just a collection of two methods: the getter and the setter.
 
-## Plan
+## Recipe
 
 - Create a C# Class Library project.
 - Write a field named `field` with two methods: `GetField` and `SetField`.
