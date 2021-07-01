@@ -6,14 +6,5 @@
         // Properties that does not provide any additional functionality on the getter and setter methods.
 
         public int Field { get; set; } = 5;
-
-        public int get_Field()
-        {
-            return 0;
-        }
-
-        public void set_Field(int value)
-        {
-        }
     }
 }
