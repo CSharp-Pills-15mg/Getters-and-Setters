@@ -1,16 +1,6 @@
 # Getters and Setters
 
-## Category
-
-Language (C#)
-
-## Description
-
-- Q: Is a property in C# a collection of two methods or is it something else?
-
-- A: The properties in C# are just a collection of two methods: the getter and the setter.
-
-## Recipe
+## Preparation Recipe
 
 - Create a C# Class Library project.
 - Write a field named `field` with two methods: `GetField` and `SetField`.

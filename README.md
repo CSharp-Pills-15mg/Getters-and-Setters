@@ -1,6 +1,10 @@
 # Getters and Setters
 
-## Problem Description
+## Pill Category
+
+Language (C#)
+
+## Description
 
 **Do you question the reality?**
 
@@ -14,4 +18,4 @@ But, what if a property is not so basic? What if it is just a syntactic sugar fo
 
 This C# Pill is trying to answer this question:
 
-- Is a property in C# just a collection of two methods?
+- Is a property in C# just a syntactic sugar for a collection of two methods or is it more than that?
