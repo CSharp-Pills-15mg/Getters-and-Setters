@@ -19,3 +19,10 @@ But, what if a property is not so basic? What if it is just a syntactic sugar fo
 This C# Pill is trying to answer this question:
 
 - Is a property in C# just a syntactic sugar for a collection of two methods or is it more than that?
+
+## Donations
+
+> If you like my work and want to support me, you can buy me a coffee:
+>
+> [![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Y8Y62EZ8H)
+
