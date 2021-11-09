@@ -102,7 +102,7 @@ internal class Class3_AutoProperty
 
 But now we have this question:
 
-- Does a property actually create those two properties behind the scene or it does some other tricks there?
+- Does a property actually create those two methods behind the scene or it does some other tricks there?
 
 Let's compile in release mode the previous class and look at it with ILDASM.
 
